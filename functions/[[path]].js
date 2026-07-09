@@ -11,7 +11,7 @@ const DEFAULT_CONFIG = {
 	// 网站图标，同时用于响应 /favicon.ico。
 	ICO: 'https://raw.cmliussss.com/favicon.ico',
 	// 页面中间显示的头像或 Logo。
-	PNG: './touxiang(1).png',
+	PNG: 'https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEW7HZqUDL9I9Z7uj-U_gAB4FuwB0kVd7kAAs8hAAILw4BWIvLXK4ob3Io8BA.png',
 	// 背景图片，填写多张时会随机展示一张；留空则使用内置默认背景。
 	IMG: [
 		//'https://raw.cmliussss.com/keqing1080p.jpg'
