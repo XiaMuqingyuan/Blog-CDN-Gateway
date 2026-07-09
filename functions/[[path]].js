@@ -11,7 +11,7 @@ const DEFAULT_CONFIG = {
 	// 网站图标，同时用于响应 /favicon.ico。
 	ICO: 'https://raw.cmliussss.com/favicon.ico',
 	// 页面中间显示的头像或 Logo。
-	PNG: 'https://raw.cmliussss.com/IMG_0038.png',
+	PNG: './touxiang(1).png',
 	// 背景图片，填写多张时会随机展示一张；留空则使用内置默认背景。
 	IMG: [
 		//'https://raw.cmliussss.com/keqing1080p.jpg'
